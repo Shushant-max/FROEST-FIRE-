@@ -50,3 +50,4 @@ Open the browser at `http://localhost:3000/index.html`, upload a forest image, a
 - If the backend is unavailable, the frontend falls back to a local simulation mode.
 - Update `server.js` to refine detection rules and label scoring for production use.
 "# FROEST-FIRE-" 
+"# FROEST-FIRE-" 
